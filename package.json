@@ -8,7 +8,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.20.0",
+    "cookie": "^0.4.1",
     "next": "9.5.3",
+    "nookies": "^2.4.0",
     "react": "16.13.1",
     "react-dom": "16.13.1"
   }
